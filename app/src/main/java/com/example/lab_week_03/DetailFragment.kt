@@ -46,7 +46,7 @@ class DetailFragment : Fragment() {
     }
 
     companion object {
-        private const val COFFEE_ID = "coffeeId"
+        private const val COFFEE_ID = "COFFEE_ID"
 
         fun newInstance(coffeeId: Int) =
             DetailFragment().apply {
