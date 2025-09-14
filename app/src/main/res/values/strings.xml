@@ -12,6 +12,11 @@ extraction.)</string>
     <string name="latte_desc">A tall, mild \'milk coffee\' (about 150-300 ml). An
 espresso with steamed milk and only a little milk foam poured over it. Serve in a
 latte glass or a coffee cup. Flavored syrup can be added.</string>
+    <string name="cappuccino_title">Cappuccino</string>
+    <string name="cappuccino_desc">A cappuccino is an Italian coffee drink traditionally made with equal parts of espresso, steamed milk, and a thick layer of frothed milk foam. It is distinct from other espresso-based drinks like a latte due to this specific 1:1:1 ratio, which gives it a strong coffee flavor and a creamy, airy texture.</string>
+    <string name="mocha_title">Mocha</string>
+    <string name="mocha_desc">A mocha is a coffee drink that combines the rich flavor of espresso with the sweetness of chocolate and the creaminess of steamed milk. It is essentially a chocolate-flavored variant of a latte</string>
+
     <string name="coffee_list">Coffee List</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
